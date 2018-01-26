@@ -190,7 +190,32 @@
         "description": "MAIL",
         "footnote": "Powered by P0lux" 
       }
+    },
+     "id": 11, 
+      "text": {
+        "title": "MAIL",
+        "description": "MAIL",
+        "footnote": "Powered by P0lux" 
+      }
+     },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.364237, 
+          "lon": 2.871607
+        }
+      }, 
+      "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/pruebacache/master/Ultimos.png"
+      },
+      "id": 12, 
+      "text": {
+        "title": "ULTIMOS3",
+        "description": "ULTIMOS3",
+        "footnote": "Powered by P0lux" 
+      }
     }
+    
   ], 
   "layer": "museosh5r9"
 }
