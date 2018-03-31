@@ -169,8 +169,8 @@
       },
       "id": 10, 
       "text": {
-        "title": "BANDERA 10 / FLAG 10",
-        "description": "BANDERA 10 / FLAG 10",
+        "title": "Las tres puertas mágicas",
+        "description": "Para hablar con Uyulala se debe pasar por tres puertas,la segunda:Espejo Mágico que muestra reflejo del si mismo real de quien intenta cruzar",
         "footnote": "Powered by P0lux" 
       }
     },
@@ -184,10 +184,10 @@
       "icon": {
         "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
       },
-      "id": 10, 
+      "id": 11, 
       "text": {
-        "title": "BANDERA 10 / FLAG 10",
-        "description": "BANDERA 10 / FLAG 10",
+        "title": "Las tres puertas mágicas",
+        "description": "Para hablar con Uyulala se debe pasar por tres puertas.La tercera es la Puerta Sin Llave, cuando la cruza se encuentra en el Palacio del Profundo Misterio",
         "footnote": "Powered by P0lux" 
       }
     },
@@ -201,10 +201,10 @@
       "icon": {
         "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
       },
-      "id": 10, 
+      "id": 12, 
       "text": {
-        "title": "BANDERA 10 / FLAG 10",
-        "description": "BANDERA 10 / FLAG 10",
+        "title": "La voz del silencio",
+        "description": "Uyulala sólo es una voz y le dice a Atreyu que la cura para la emperatriz es recibir un nuevo nombre que solo puede otorgarle un humano",
         "footnote": "Powered by P0lux" 
       }
     },
@@ -218,10 +218,10 @@
       "icon": {
         "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
       },
-      "id": 10, 
+      "id": 13, 
       "text": {
-        "title": "BANDERA 10 / FLAG 10",
-        "description": "BANDERA 10 / FLAG 10",
+        "title": "En el pais de la gentuza",
+        "description": "Emprende el camino  junto con Fujur buscando las fronteras de Fantasia para encontrar un humano",
         "footnote": "Powered by P0lux" 
       }
     },
@@ -235,10 +235,10 @@
       "icon": {
         "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
       },
-      "id": 10, 
+      "id": 14, 
       "text": {
-        "title": "BANDERA 10 / FLAG 10",
-        "description": "BANDERA 10 / FLAG 10",
+        "title": "En el pais de gentuza",
+        "description": "En el camino una pelea entre los Gigantes de los Vientos, provoca que Fujur pierda el control de su vuelo y Atreyu caiga al mar.",
         "footnote": "Powered by P0lux" 
       }
     },
@@ -252,10 +252,10 @@
       "icon": {
         "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
       },
-      "id": 10, 
+      "id": 15, 
       "text": {
-        "title": "BANDERA 10 / FLAG 10",
-        "description": "BANDERA 10 / FLAG 10",
+        "title": "La ciudad de los espectros",
+        "description": "Caminando Atreyu llega a la Ciudad de los Espectros, aquí encuentra a Gmork el Hombre Lobo, quien le cuenta acerca del destino de Fantasia: su destrucción. ",
         "footnote": "Powered by P0lux" 
       }
     },
@@ -283,6 +283,48 @@
           "lon": 2.92525
         }
       }, 
+      "id": 10, 
+      "text": {
+        "title": "BANDERA 10 / FLAG 10",
+        "description": "BANDERA 10 / FLAG 10",
+        "footnote": "Powered by P0lux" 
+      }
+    },
+        {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.52593,
+          "lon": 2.92525
+        }
+      }, 
+      "id": 10, 
+      "text": {
+        "title": "BANDERA 10 / FLAG 10",
+        "description": "BANDERA 10 / FLAG 10",
+        "footnote": "Powered by P0lux" 
+      }
+    },
+        {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.52593,
+          "lon": 2.92525
+        }
+      }, 
+      "id": 10, 
+      "text": {
+        "title": "BANDERA 10 / FLAG 10",
+        "description": "BANDERA 10 / FLAG 10",
+        "footnote": "Powered by P0lux" 
+      }
+    },
+        {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.52593,
+          "lon": 2.92525
+        }
+      },           
       "icon": {
         "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
       },
