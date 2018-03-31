@@ -80,12 +80,12 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/atreyu.png"
       },
       "id": 5, 
       "text": {
-        "title": "BANDERA 5 / FLAG 5",
-        "description": "BANDERA 5 / FLAG 5",
+        "title": "El llamamiento de Atreyu",
+        "description": "Caíron llega donde vive Atreyu, éste acepta la misión de encontrar la cura para la Emperatriz",
         "footnote": "Powered by P0lux"
       }
     },
