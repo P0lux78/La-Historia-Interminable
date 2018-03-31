@@ -131,12 +131,12 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/losdoscolonos.png"
       },
       "id": 8, 
       "text": {
-        "title": "BANDERA 8 / FLAG 8",
-        "description": "BANDERA 8 / FLAG 8",
+        "title": "Los dos colonos",
+        "description": "Atreyu despierta en un lugar extraño, con Fujur. Una pareja de gnomos llamados Enguivuck y Urgl lo ayudan y curan, le informan que ha llegado al Oráculo del Sur.",
         "footnote": "Powered by P0lux" 
       }
     },
@@ -148,12 +148,12 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/esfinges.png"
       },
       "id": 9, 
       "text": {
-        "title": "BANDERA 9 / FLAG 9",
-        "description": "BANDERA 9 / FLAG 9",
+        "title": "Las tres puertas mágicas",
+        "description": "Para hablar con Uyulala se debe pasar por tres puertas, la primera es la del Gran Enigma custodiada por un par de Esfinges",
         "footnote": "Powered by P0lux" 
       }
     },
