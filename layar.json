@@ -92,17 +92,17 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 39.526885, 
-          "lon": 2.926674
+          "lat": 39.363565, 
+          "lon":  2.873434
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/morla.png"
       },
       "id": 6, 
       "text": {
-        "title": "BANDERA 6 / FLAG 6",
-        "description": "BANDERA 6 / FLAG 6",
+        "title": "La vetusta Morla",
+        "description": "Atreyu encuentra a Morla quien le dice que la única que puede darle respuestas es Uyulala, pero ésta se encuentra en un lugar muy lejano: El Oráculo del Sur.",
         "footnote": "Powered by P0lux"
       }
     },
