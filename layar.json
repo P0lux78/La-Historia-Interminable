@@ -6,8 +6,8 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 39.364169,  
-          "lon": 2.873180
+          "lat": 39.367619,   
+          "lon": 2.864640
         }
       }, 
       "icon": {
@@ -23,17 +23,17 @@
   {
       "anchor": {
         "geolocation": {
-          "lat": 39.528014, 
-          "lon": 2.926459
+          "lat": 39.369609,  
+          "lon": 2.871807
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/La-Historia-Interminable/bandera2.jpg"
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/La-Historia-Interminable/bosquedehaule.jpg"
       },
       "id": 2, 
       "text": {
-        "title": "BANDERA 2 / FLAG 2",
-        "description": "BANDERA 2 / FLAG 2",
+        "title": "Fantasia en peligro",
+        "description": "Reunión en el Bosque de Haule con noticias infaustas: la Nada lo está cubriendo todo",
         "footnote": "Powered by P0lux" 
       }
     }
@@ -41,34 +41,34 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": 39.527752, 
-          "lon": 2.923649
+          "lat": 39.367783,  
+          "lon": 2.875970
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/La-Historia-Interminable/bandera3.jpg"
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/La-Historia-Interminable/torredemarfil.png"
       },
       "id": 3, 
       "text": {
-        "title": "BANDERA 3 / FLAG 3",
-        "description": "BANDERA 3 / FLAG 3",
+        "title": "Fantasia en peligro",
+        "description": "En la Torre de Marfil, todos los médicos del reino están reunidos, pues la Emperatriz Infantil ha caído enferma",
         "footnote": "Powered by P0lux"
       }
     },
     {
       "anchor": {
         "geolocation": {
-          "lat": 39.528599, 
-          "lon": 2.925088
+          "lat": 39.363502, 
+          "lon": 2.876099 
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/La-Historia-Interminable/bandera4.jpg"
+        "url": "https://raw.githubusercontent.com/P0lux78/GC79XK8/La-Historia-Interminable/fantasiapeligro.png"
       },
       "id": 4, 
       "text": {
-        "title": "BANDERA 4 / FLAG 4",
-        "description": "BANDERA 4 / FLAG 4",
+        "title": "Fantasia en peligro",
+        "description": "La Emperatriz ordena la busqueda de Atreyu quien deberá encontrar su cura",
         "footnote": "Powered by P0lux"
       }
     },
