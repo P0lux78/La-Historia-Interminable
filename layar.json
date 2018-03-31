@@ -11,12 +11,12 @@
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/Fantasiapeligro.png"       
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/bastian.png"       
       },
       "id": 1, 
       "text": {
-        "title": "Fantasia en peligro",
-        "description": "En el Bosque de Haule noticias infaustas:la Nada lo está cubriendo todo. En la Torre de Marfil la Emperatriz Infantil ha caído enferma.Van en busca de Atreyu",
+        "title": "Encuentras el libro",
+        "description": "Acabas de reencarnarte en Bastian, un chico de 11 años al que le apasionan las aventuras, ¿estás preparado para vivirlas?",
         "footnote": "Powered by P0lux" 
       }
     },
