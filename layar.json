@@ -211,8 +211,8 @@
         {
       "anchor": {
         "geolocation": {
-          "lat": 39.527395,
-          "lon": 2.926640
+          "lat": 39.417260, 
+          "lon": 3.259342
         }
       }, 
       "icon": {
@@ -228,12 +228,12 @@
         {
       "anchor": {
         "geolocation": {
-          "lat": 39.527395,
-          "lon": 2.926640
+          "lat": 39.417442, 
+          "lon": 3.259515
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/10tormenta.gif"
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/09tormenta.gif"
       },
       "id": 14, 
       "text": {
