@@ -317,13 +317,30 @@
           "lon": 3.267611
         }
     "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/hijadelaluna.gif"
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/13hijadelaluna.gif"
       },
       }, 
       "id": 19, 
       "text": {
         "title": "HIJA DE LA LUNA!!!",
         "description": "Finalmente Bastian pronuncia el nuevo nombre de la emperatriz: HIJA DE LA LUNA!!!",
+        "footnote": "Powered by P0lux" 
+      }
+    },
+     {
+      "anchor": {
+        "geolocation": {
+          "lat": 39.415093, 
+          "lon": 3.267611
+        }
+    "icon": {
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/14volando.gif"
+      },
+      }, 
+      "id": 20, 
+      "text": {
+        "title": "El premio",
+        "description": "Sube a Fujur y ves volando a buscar tu tesoro!",
         "footnote": "Powered by P0lux" 
       }
     },
@@ -335,9 +352,9 @@
         }
       },           
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/11atreyuemperatriz.png"
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/14elpremio.png"
       },
-      "id": 20, 
+      "id": 21, 
       "text": {
         "title": "El Premio",
         "description": "Ahora ya si! Eres valedor de firmar en el libro de la Historia interminable, me encantará saber que aventuras has tenido por el camino",
