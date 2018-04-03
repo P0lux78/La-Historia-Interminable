@@ -245,12 +245,12 @@
         {
       "anchor": {
         "geolocation": {
-          "lat": 39.527395,
-          "lon": 2.926640
+          "lat": 39.416353, 
+          "lon": 3.258661 
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/10gmork.gif"
       },
       "id": 15, 
       "text": {
@@ -262,12 +262,12 @@
         {
       "anchor": {
         "geolocation": {
-          "lat": 39.527395,
-          "lon": 2.926640
+          "lat": 39.415980, 
+          "lon": 3.260786
         }
       }, 
       "icon": {
-        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/"
+        "url": "https://raw.githubusercontent.com/P0lux78/La-Historia-Interminable/master/11vuelomarfil.gif"
       },
       "id": 16, 
       "text": {
@@ -279,8 +279,8 @@
         {
       "anchor": {
         "geolocation": {
-          "lat": 39.52593,
-          "lon": 2.92525
+          "lat": 39.415355, 
+          "lon": 3.261083
         }
       }, 
       "id": 17, 
