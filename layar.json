@@ -185,7 +185,7 @@
       },
       "id": 11, 
       "text": {
-        "title": "Las tres puertas mágicas // G=W*X",
+        "title": "Las tres puertas mágicas // G=(W*X)",
         "description": "Para hablar con Uyulala se debe pasar por tres puertas.La tercera es la Puerta Sin Llave, cuando la cruza se encuentra en el Palacio del Profundo Misterio",
         "footnote": "La aventura sigue en: N 39° 25.079' E 3° 15.564' // Powered by P0lux" 
       }
@@ -236,7 +236,7 @@
       },
       "id": 14, 
       "text": {
-        "title": "En el pais de gentuza // I=V-1",
+        "title": "En el pais de gentuza // I=(V-1)",
         "description": "En el camino una pelea entre los Gigantes de los Vientos, provoca que Fujur pierda el control de su vuelo y Atreyu caiga al mar.",
         "footnote": "La aventura sigue en: N 39° 24.983' E 3° 15.534' // Powered by P0lux" 
       }
@@ -287,7 +287,7 @@
       }, 
       "id": 17, 
       "text": {
-        "title": "El vuelo a la Torre de Marfil // K=U*2",
+        "title": "El vuelo a la Torre de Marfil // K=(U*2)",
         "description": "Al llegar, Atreyu se entrevista con la Emperatriz, quien le informa que su misión ha terminado, encontraron al Salvador de Fantasia: Bastián. ",
         "footnote": "La aventura sigue en: N 39° 24.909' E 3° 15.805' // Powered by P0lux" 
       }
