@@ -31,7 +31,7 @@
       },
       "id": 1, 
       "text": {
-        "title": "Encuentras el libro",
+        "title": "Encuentras el libro // A=3",
         "description": "Acabas de reencarnarte en Bastian, un chico de 11 años al que le apasionan las aventuras, ¿estás preparado para vivirlas?",
         "footnote": "La aventura sigue en: N 39° 25.493' E 3° 15.925' // Powered by P0lux" 
       }
@@ -48,7 +48,7 @@
       },
       "id": 2, 
       "text": {
-        "title": "Fantasia en peligro",
+        "title": "Fantasia en peligro  // Y=3",
         "description": "Reunión en el Bosque de Haule con noticias infaustas: la Nada lo está cubriendo todo",
         "footnote": "La aventura sigue en: N 39° 25.530' E 3° 15.772' // Powered by P0lux" 
       }
@@ -66,7 +66,7 @@
       },
       "id": 3, 
       "text": {
-        "title": "Fantasia en peligro",
+        "title": "Fantasia en peligro // Z=3",
         "description": "En la Torre de Marfil, todos los médicos del reino están reunidos, pues la Emperatriz Infantil ha caído enferma",
         "footnote": "La aventura sigue en: N 39° 25.530' E 3° 15.772' // Powered by P0lux"
       }
@@ -83,7 +83,7 @@
       },
       "id": 4, 
       "text": {
-        "title": "Fantasia en peligro",
+        "title": "Fantasia en peligro // B=(Y*Z)",
         "description": "La Emperatriz ordena la busqueda de Atreyu quien deberá encontrar su cura",
         "footnote": "La aventura sigue en: N 39° 25.530' E 3° 15.772' // Powered by P0lux"
       }
@@ -100,7 +100,7 @@
       },
       "id": 5, 
       "text": {
-        "title": "El llamamiento de Atreyu",
+        "title": "El llamamiento de Atreyu // C=2",
         "description": "Caíron llega donde vive Atreyu, éste acepta la misión de encontrar la cura para la Emperatriz",
         "footnote": "La aventura sigue en: N 39° 25.427' E 3° 15.774' // Powered by P0lux"
       }
@@ -117,7 +117,7 @@
       },
       "id": 6, 
       "text": {
-        "title": "La vetusta Morla",
+        "title": "La vetusta Morla // D=4",
         "description": "Atreyu encuentra a Morla quien le dice que la única que puede darle respuestas es Uyulala, pero ésta se encuentra en un lugar muy lejano: El Oráculo del Sur.",
         "footnote": "La aventura sigue en: N 39° 25.288' E 3° 15.719' // Powered by P0lux"
       }
@@ -134,7 +134,7 @@
       },
       "id": 7, 
       "text": {
-        "title": "Ygramul, el multiple",
+        "title": "Ygramul, el multiple // E=8",
         "description": "Atreyu se ve apresado po Ygramul pero antes de aplicarle su veneno, Fujur, el dragón de la suerte, le pone a salvo",
         "footnote": "La aventura sigue en: N 39° 25.155' E 3° 15.726' // Powered by P0lux" 
       }
@@ -151,7 +151,7 @@
       },
       "id": 8, 
       "text": {
-        "title": "Los dos colonos",
+        "title": "Los dos colonos // F=4",
         "description": "Atreyu despierta en un lugar extraño, con Fujur. Una pareja de gnomos llamados Enguivuck y Urgl lo ayudan y curan, le informan que ha llegado al Oráculo del Sur.",
         "footnote": "La aventura sigue en: N 39° 25.099' E 3° 15.589' // Powered by P0lux" 
       }
@@ -168,7 +168,7 @@
       },
       "id": 9, 
       "text": {
-        "title": "Las tres puertas mágicas",
+        "title": "Las tres puertas mágicas // W=1",
         "description": "Para hablar con Uyulala se debe pasar por tres puertas, la primera es la del Gran Enigma custodiada por un par de Esfinges",
         "footnote": "La aventura sigue en: N 39° 25.079' E 3° 15.564' // Powered by P0lux" 
       }
@@ -185,7 +185,7 @@
       },
       "id": 10, 
       "text": {
-        "title": "Las tres puertas mágicas",
+        "title": "Las tres puertas mágicas // X=5",
         "description": "Para hablar con Uyulala se debe pasar por tres puertas,la segunda:Espejo Mágico que muestra reflejo del si mismo real de quien intenta cruzar",
         "footnote": "La aventura sigue en: N 39° 25.079' E 3° 15.564' // Powered by P0lux" 
       }
@@ -202,7 +202,7 @@
       },
       "id": 11, 
       "text": {
-        "title": "Las tres puertas mágicas",
+        "title": "Las tres puertas mágicas // G=W*X",
         "description": "Para hablar con Uyulala se debe pasar por tres puertas.La tercera es la Puerta Sin Llave, cuando la cruza se encuentra en el Palacio del Profundo Misterio",
         "footnote": "La aventura sigue en: N 39° 25.079' E 3° 15.564' // Powered by P0lux" 
       }
@@ -219,7 +219,7 @@
       },
       "id": 12, 
       "text": {
-        "title": "La voz del silencio",
+        "title": "La voz del silencio // H=3",
         "description": "Uyulala sólo es una voz y le dice a Atreyu que la cura para la emperatriz es recibir un nuevo nombre que solo puede otorgarle un humano",
         "footnote": "La aventura sigue en: N 39° 25.046' E 3° 15.557' // Powered by P0lux" 
       }
@@ -236,7 +236,7 @@
       },
       "id": 13, 
       "text": {
-        "title": "En el pais de la gentuza",
+        "title": "En el pais de la gentuza // V=2",
         "description": "Emprende el camino  junto con Fujur buscando las fronteras de Fantasia para encontrar un humano",
         "footnote": "La aventura sigue en: N 39° 24.983' E 3° 15.534' // Powered by P0lux" 
       }
@@ -253,7 +253,7 @@
       },
       "id": 14, 
       "text": {
-        "title": "En el pais de gentuza",
+        "title": "En el pais de gentuza // I=V-1",
         "description": "En el camino una pelea entre los Gigantes de los Vientos, provoca que Fujur pierda el control de su vuelo y Atreyu caiga al mar.",
         "footnote": "La aventura sigue en: N 39° 24.983' E 3° 15.534' // Powered by P0lux" 
       }
@@ -270,7 +270,7 @@
       },
       "id": 15, 
       "text": {
-        "title": "La ciudad de los espectros",
+        "title": "La ciudad de los espectros // J=5",
         "description": "Caminando Atreyu llega a la Ciudad de los Espectros, aquí encuentra a Gmork el Hombre Lobo, quien le cuenta acerca del destino de Fantasia: su destrucción. ",
         "footnote": "La aventura sigue en: N 39° 24.921' E 3° 15.601' // Powered by P0lux" 
       }
@@ -287,7 +287,7 @@
       },
       "id": 16, 
       "text": {
-        "title": "El vuelo a la Torre de Marfil ",
+        "title": "El vuelo a la Torre de Marfil // U=4",
         "description": "Fujur y Atreyu vuelan hacia la Torre de Marfil, mientras la nada, está a punto de consumirlo todo",
         "footnote": "La aventura sigue en: N 39° 24.909' E 3° 15.805' // Powered by P0lux" 
       }
@@ -304,7 +304,7 @@
       }, 
       "id": 17, 
       "text": {
-        "title": "El vuelo a la Torre de Marfil",
+        "title": "El vuelo a la Torre de Marfil // K=U*2",
         "description": "Al llegar, Atreyu se entrevista con la Emperatriz, quien le informa que su misión ha terminado, encontraron al Salvador de Fantasia: Bastián. ",
         "footnote": "La aventura sigue en: N 39° 24.909' E 3° 15.805' // Powered by P0lux" 
       }
@@ -322,7 +322,7 @@
       }, 
       "id": 18, 
       "text": {
-        "title": "La Emperatriz Infantil",
+        "title": "La Emperatriz Infantil // L=8",
         "description": "Bastián debe salvar a Fantasia otorgándole un nuevo nombre a la Emperatriz, nombre que él ya conoce, mas no pronuncia",
         "footnote": "La aventura sigue en: N 39° 24.920' E 3° 16.040' // Powered by P0lux" 
       }
@@ -339,9 +339,9 @@
       }, 
       "id": 19, 
       "text": {
-        "title": "HIJA DE LA LUNA!!!",
+        "title": "HIJA DE LA LUNA!!! // M=8",
         "description": "Finalmente Bastian pronuncia el nuevo nombre de la emperatriz: HIJA DE LA LUNA!!!",
-        "footnote": "La aventura sigue en: N 39° 24.845' E 3° 15.888' // Powered by P0lux" 
+        "footnote": "La aventura sigue en: N AB° CD.EFG' E H° IJ.KLM' // Powered by P0lux" 
       }
     },
      {
