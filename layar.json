@@ -134,7 +134,7 @@
       },
       "id": 8, 
       "text": {
-        "title": "Los dos colonos // F=4",
+        "title": "Los dos colonos // F=5",
         "description": "Atreyu despierta en un lugar extraño, con Fujur. Una pareja de gnomos llamados Enguivuck y Urgl lo ayudan y curan, le informan que ha llegado al Oráculo del Sur.",
         "footnote": "La aventura sigue en: N 39° 25.099' E 3° 15.589' // Powered by P0lux" 
       }
@@ -151,7 +151,7 @@
       },
       "id": 9, 
       "text": {
-        "title": "Las tres puertas mágicas // W=1",
+        "title": "Las tres puertas mágicas // W=5",
         "description": "Para hablar con Uyulala se debe pasar por tres puertas, la primera es la del Gran Enigma custodiada por un par de Esfinges",
         "footnote": "La aventura sigue en: N 39° 25.079' E 3° 15.564' // Powered by P0lux" 
       }
@@ -185,7 +185,7 @@
       },
       "id": 11, 
       "text": {
-        "title": "Las tres puertas mágicas // G=(W*X)",
+        "title": "Las tres puertas mágicas // G=(W/X)",
         "description": "Para hablar con Uyulala se debe pasar por tres puertas.La tercera es la Puerta Sin Llave, cuando la cruza se encuentra en el Palacio del Profundo Misterio",
         "footnote": "La aventura sigue en: N 39° 25.079' E 3° 15.564' // Powered by P0lux" 
       }
@@ -305,7 +305,7 @@
       }, 
       "id": 18, 
       "text": {
-        "title": "La Emperatriz Infantil // L=8",
+        "title": "La Emperatriz Infantil // L=6",
         "description": "Bastián debe salvar a Fantasia otorgándole un nuevo nombre a la Emperatriz, nombre que él ya conoce, mas no pronuncia",
         "footnote": "La aventura sigue en: N 39° 24.920' E 3° 16.040' // Powered by P0lux" 
       }
@@ -322,7 +322,7 @@
       }, 
       "id": 19, 
       "text": {
-        "title": "HIJA DE LA LUNA!!! // M=8",
+        "title": "HIJA DE LA LUNA!!! // M=6",
         "description": "Finalmente Bastian pronuncia el nuevo nombre de la emperatriz: HIJA DE LA LUNA!!!",
         "footnote": "La aventura ya acaba en: N AB° CD.EFG' E H° IJ.KLM' // Powered by P0lux" 
       }
